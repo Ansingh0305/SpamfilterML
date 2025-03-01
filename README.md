@@ -1,4 +1,4 @@
-# Email/SMS Spam Classifier
+# Spam Classifier
 
 This project contains a Streamlit application that classifies messages as spam or not spam.
 
